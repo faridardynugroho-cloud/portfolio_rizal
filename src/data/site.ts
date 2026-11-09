@@ -12,7 +12,7 @@ export const site = {
   ],
   email: "rizalardianto043@gmail.com",
   socials: [
-    { label: "LinkedIn", href: "https: linkedin.com/in/rizal-ardianto-b94461261/" },
+    { label: "LinkedIn", href: "https://linkedin.com/in/rizal-ardianto-b94461261/" },
     { label: "WhatsApp", href: "https://wa.me/6283108561837" },
   ],
 }
