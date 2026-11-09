@@ -7,7 +7,7 @@ export const site = {
   // Taruh fotomu di public/foto.jpg, lalu isi photo dengan "/foto.jpg"
   photo: "/foto.jpeg",
   about: [
-    "Saya Rizal Ardianto, lulusan S1 Teknologi Informasi Universitas Bina Sarana Informatika. Saya mengerjakan project akademik dan freelance: game kuis multiplayer, sistem absensi, admin panel, sampai marketplace.",
+    "Saya Rizal Ardianto, lulusan S1 Teknologi Informasi Universitas Bina Sarana Informatika. Saya mengerjakan project akademik dan freelance: game kuis multiplayer, sistem absensi, admin panel.",
     "Saya paling nyaman di sambungan antara layar dan server: koneksi real-time, alur data, dan integrasi AI, dengan Flutter di sisi mobile dan Laravel di sisi backend. Saya terbuka untuk kesempatan kerja dan project freelance.",
   ],
   email: "rizalardianto043@gmail.com",
