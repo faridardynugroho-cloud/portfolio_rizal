@@ -7,12 +7,12 @@ export const site = {
   // Taruh fotomu di public/foto.jpg, lalu isi photo dengan "/foto.jpg"
   photo: "/foto.jpeg",
   about: [
-    "Saya Rizal Ardianto, lulusan S1 Teknologi Informasi Universitas Bina Sarana Informatika. Saya mengerjakan project akademik dan freelance: game kuis multiplayer, sistem absensi, admin panel.",
-    "Saya paling nyaman di sambungan antara layar dan server: koneksi real-time, alur data, dan integrasi AI, dengan Flutter di sisi mobile dan Laravel di sisi backend. Saya terbuka untuk kesempatan kerja dan project freelance.",
+    "Saya Rizal Ardianto, lulusan S1 Teknologi Informasi Universitas Bina Sarana Informatika. ",
+    "Saya memiliki pengalaman dalam mendukung 150+ pengguna sebagai IT Support, dari troubleshooting perangkat sampai instalasi jaringan.",
   ],
   email: "rizalardianto043@gmail.com",
   socials: [
-    { label: "LinkedIn", href: "https://linkedin.com/in/usernamekamu" },
+    { label: "LinkedIn", href: "https: linkedin.com/in/rizal-ardianto-b94461261/" },
     { label: "WhatsApp", href: "https://wa.me/6283108561837" },
   ],
 }
